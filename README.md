@@ -5,7 +5,7 @@ $ pkg install git <br>
 $ git clone https://github.com/m0dusp3nipuan/Haeckerfb <br>
 $ cd Haeckfb <br>
 $ pip2 install -r zona.Haeckfb <br>
-$ python2 Haeckfb.py <br>
+$ python2 Haeckerfb.py <br>
 #
 #### Info Menu :<br
  [01] Dump id public <br>
